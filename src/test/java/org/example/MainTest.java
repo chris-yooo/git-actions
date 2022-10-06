@@ -12,6 +12,6 @@ class MainTest {
         int value2 = 5;
 
         int actual = Main.sum(value1, value2);
-        assertEquals(16, actual);
+        assertEquals(15, actual);
     }
 }
